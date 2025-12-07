@@ -1,0 +1,44 @@
+Project #,Project Name,Category,Status,Priority,Hardware Needed,Blocker/Next Step,Content Potential,Sponsor Relevance,Est. Completion,Notes
+1,Resin Hex Tiles,Art/Manufacturing,Ongoing,Medium,Vacuum chamber + UV oven + resins,None - active production,High - process videos,Low,,Custom glow resin formula
+2,PCB Matrix Boards,Electronics/LED,85% Complete,HIGH,Finalize PCB design,PCB fab order,Very High - build series,SEEED (Xiao controllers),2 weeks,Modular LED display with magnetic connectors
+3,Magnetic Lock Controller,Smart Home,Hardware Complete,HIGH,Firmware completion,Matter protocol integration,Medium,SEEED (ESP32-C6),1 week,Custom Decora switch housing
+4,Glass LED Fuse Tubes,Components/LED,60+ Units Made,Medium,Production scaling,Tutorial content,Very High - unique technique,Low,,Solder-sealed 6x30mm tubes
+5,12-LED Circular Clock,Electronics/Display,Hardware Complete,Medium,Firmware specification,Arduino firmware dev,High - Christmas project,Low,3 weeks,RP2040 + WS2811 RGB clock
+6,LED Raygun,Props/Cosplay,Planning,Low,8-inch glass straws (ordered),Component integration,High - convention content,Low,,RC battery powered
+7,Biomimetic AI System,Research/Software,Architecture Design,VERY HIGH,None - 3090 ready,Lobe implementation,Extremely High - novel research,Low,3+ months,Qwen + Mistral dual-hemisphere
+8,Smart Mirror,Electronics/Display,Complete,Low,None,None - operational,Medium - retrospective,Low,DONE,496 LEDs + temp sensing
+9,Star Trek Combadge,Wearable/Audio,Complete,Low,None,None - finished,Medium - showcase,Low,DONE,Auracast audio system
+10,nRF54L15 Reference Design,Development/Firmware,Complete + Published,Low,None,None - official release,High - reference material,SEEED (official),DONE,github.com/Toastee0/Seeed-Xiao-nRF54L15
+11,Auddesse CMSIS-DAP,Professional/Debug,Complete,Low,None,None - delivered,Low,Low,DONE,Stock options compensation
+12,8x96 LED Marquee,Electronics/Display,Designed,Medium,PCB fabrication order,Order PCBs,High - public display,Low,,768 LEDs scrolling text
+13,64x64 LED Panel Frame,Electronics/Display,Frame Acquired,Medium,4x 32x32 panels + controller,Panel wiring + RP2040 install,High - art display,Low,,4096 addressable LEDs
+14,Light-Up Cane,Wearable/Safety,Concept,Low,LED strip + RP2040 + battery,Design + fabrication,Medium,Low,,Motion-reactive walking cane
+15,Salt Crystal Diffusers,Art/Lighting,Concept,Low,Salt rocks + LEDs,Material sourcing,Medium - aesthetic,Low,,Himalayan salt style
+16,Home Server (toastee.ca),Infrastructure/Hosting,Domain Acquired,Medium,Server hardware staged,Setup + configuration,Low,Low,,Self-hosted services
+17-20,WATonoBus Fleet,Autonomous Vehicles,Complete (Past),Low,None,None - past work,High - portfolio,Low,DONE,"4 years, UWaterloo MVS Lab"
+21,WATonoTruck Mining,Autonomous Vehicles,Complete (Past),Low,None,None - past work,High - portfolio,Low,DONE,GM partnership 850V system
+22,Toyota SSL/TLS Audit,Security/Professional,Complete (Past),Low,None,None - past work,Medium - case study,Low,DONE,Independent security findings
+23,Automotive ECU Security,Security/Research,Experience (Past),Low,None,None - past work,Medium - expertise demo,Low,DONE,Reverse engineering + bootloaders
+24,KUKA Robotics (ATS),Industrial/Professional,Experience (Past),Low,None,None - past work,Low,Low,DONE,Vision-guided automation
+25,Yukon Gov Network,Professional/IT,Experience (Past),Low,None,None - past work,Low,Low,DONE,~2 years network admin
+26,TTC Desk Lamp,Smart Home/Lighting,LEDs Installed,Low,Thrift store lamp base + ESP32-C6,Base integration + HA config,Medium - Toronto theme,Low,,Home Assistant integrated
+27,Microcontroller Inventory,Resources/Stock,Maintained,N/A,None,Keep organized,Low,SEEED (nRF priority),N/A,"10x Xiao RP2040, 10x ESP32-C6, 6x nRF54L15, 5x nRF52840"
+28,Workshop Equipment,Infrastructure,Operational,N/A,None,Maintain,Medium - tool tours,Low,N/A,"3D printers, oscilloscopes, hot air, etc"
+29,YouTube Channel,Content/Platform,Active,VERY HIGH,None,Consistent uploads,N/A,SEEED + EasyEDA,Ongoing,digitaltoaster - 2-4hrs daily Mon-Fri
+30,Twitch Streaming,Content/Platform,Active,HIGH,None,Consistent schedule,N/A,SEEED + EasyEDA,Ongoing,toastee0 - technical builds + Sat gaming
+31,GitHub Presence,Content/Platform,Active,HIGH,None,More public repos,High - portfolio,SEEED,Ongoing,toastee0 - open source
+32,Discord Bot (Biomimetic),Software/AI,Planning,HIGH,Server access,Biomimetic AI completion,High - unique bot,Low,3+ months,Stream announcements + learning
+33,SEEED Partnership,Business/Sponsor,Active,VERY HIGH,None,Prioritize nRF54L15 projects,N/A,SEEED,Ongoing,Direct PM contact
+34,EasyEDA Sponsorship,Business/Sponsor,Active,HIGH,None,PCB designs + content,N/A,EasyEDA,Ongoing,PCB platform sponsor
+35,Design Language Portfolio,Branding/Aesthetic,Ongoing,Medium,None,Document philosophy,High - brand identity,Low,Ongoing,"Glass, brass, copper, minimalism"
+36,Content Backlog Management,Business/Planning,Needs Work,HIGH,None,Prioritize + schedule,N/A,N/A,Ongoing,Transform WIP to shipped content
+37,Cold-Climate Linguistics,Research/Academic,Literature Review Done,Low,None,Shelve for future paper,Medium - YouTube explainer,Low,Future,"Heat-loss driven speech patterns, Pinkerton 1789"
+38,Shipbreaker Speedrunning,Gaming/Competitive,Active Weekly,Medium,None,Saturday runs,Medium - gaming content crossover,Low,Weekly,Top 10 weekly ranking goal (NOT 13th global)
+39,Community Moderation,Community/Social,Active,Low,None,Maintain engagement,Low,Low,Ongoing,30-member exclusive group
+40,digitaltoaster inc Legal,Business/Admin,Registered,Low,None,Maintain compliance,Low,Low,N/A,Legally registered company
+41,3D Printing Skills,Manufacturing/Skill,Advanced,N/A,None,Continue learning,Medium - process content,Low,N/A,0.15mm tolerance + multi-material
+42,Soldering/Assembly,Manufacturing/Skill,Advanced,N/A,None,Continue refinement,Medium - technique demos,Low,N/A,Hand-soldered circuit sculptures
+43,PCB Design Skills,Electronics/Skill,Advanced,N/A,None,Continue learning,High - tutorial content,EasyEDA,N/A,Aesthetic + functional boards
+44,Firmware Development,Software/Skill,Advanced,N/A,None,Continue learning,High - code walkthroughs,SEEED,N/A,"nRF, ESP32, RP2040 platforms"
+45,Career Documentation,Business/Portfolio,In Progress,HIGH,None,Complete inventory,Medium - portfolio site,Low,This week,This spreadsheet
+46,MISSING PROJECTS,Various,Unknown,HIGH,Unknown,IDENTIFY THEM,Unknown,Unknown,Unknown,~30 projects not yet cataloged
